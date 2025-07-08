@@ -28,5 +28,3 @@ Este projeto implementa um pipeline ETL para processar dados de estoque e custos
 - Ajuste de ESPESSURA (ex.: 2.60 para 2.65 para HRC).
 - Merge com dados de custo usando a chave específicas.
 
-## Autor
-Alex Marinho
