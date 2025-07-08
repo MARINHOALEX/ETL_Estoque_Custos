@@ -1,4 +1,4 @@
-# ETL Stock and Cost Analytics
+# ETL Relatório de Estoque e Custos
 
 Este projeto implementa um pipeline ETL para processar dados de estoque e custos de de importação, gerando um relatório consolidado em Excel que serve como base para um dashboard para tomada de descisão.
 
